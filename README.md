@@ -1,5 +1,5 @@
 # itteacherpl.github.io
-##Zarządzanie pracownią komputerową
+## Zarządzanie pracownią komputerową
 ** [Clonezilla](https://pl.khanacademy.org](https://clonezilla.org/) - Narzędzie do klonowania komputerów
 ** [Rufus](https://rufus.ie/pl/) - Tworzenie bootowalnych USB
 ** [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/)
