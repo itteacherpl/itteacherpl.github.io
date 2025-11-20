@@ -6,4 +6,5 @@
 * [EasyBCD](https://neosmart.net/EasyBCD/)
 * [Uniget UI](https://www.marticliment.com/unigetui/)
 * [Crapfixer](https://github.com/builtbybel/Crapfixer)
-
+* [OpenBoard](https://openboard.ch/index.en.html)
+* [Veyon](https://veyon.io/en/)
