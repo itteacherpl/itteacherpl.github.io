@@ -1,4 +1,3 @@
-# itteacherpl.github.io
 * [Clonezilla](https://clonezilla.org/) - Narzędzie do klonowania komputerów
 * [Rufus](https://rufus.ie/pl/) - Tworzenie bootowalnych USB
 * [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/)
